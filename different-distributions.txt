@@ -1,0 +1,17 @@
+Normal distribution:
+-	Test scores (usually students will get scores close to the average value)
+-	IQ distribution (most IQ values will be around 130)
+-	The accuracy of measurements (most measurements will be somewhat accurate, while there will be slight chances of error)
+
+Poisson distribution:
+-	There are around 4 customers who go to a store daily. Using the Poisson distribution, the store manager can calculate the probability of 10 customers or 0 customers going to the store.
+-	The Poisson distribution uses the number of times something happens to try to find a probability for it happening again a certain number of times.
+
+Binomial distribution:
+-	Let’s say I toss a coin, and if it is heads every time it is SUCCESS, and otherwise it is FAILURE. If I toss it twice, there is a 1/4 probability of SUCCESS, and a 3/4 probability of FAILURE.
+-	If there is a 25% chance for me to guess a multiple-choice question and answer it correctly, and if there are 30 questions that are all multiple choice, there is a (1/4 to the 25th power) chance of me getting a 100 (SUCCESS) by guessing. There is a 1 - (1/4 to the 25th power) chance of me not getting a 100 (FAILURE)
+-	Imagine I’m opening a box in a video game, and there’s 1/3 chance of me finding 3 gold coins, then the probability of it happening 3 times (SUCCESS) is 1/27, and the probability of FAILURE is 26/27
+
+Bernoulli distribution:
+-	Almost the same as binomial distribution, but there is only one coin toss/chest/multiple-choice.
+-	E.g. only one coin toss, only one chest opening, and only one multiple-choice question.
