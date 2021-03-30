@@ -1,0 +1,15 @@
+Chi-squared test:
+ - It is used to compare the alphabetical distributions of plaintext or decrypted
+    ciphertext, in order to determine whether the decryption was successful or not. (cryptanalysis, see picture)
+ - It is also used to compare the distribution of certain propertiesof genes belonging to different categories. (bioinformatics)
+
+T-test:
+ - It was originally used as an economical way to monitor the quality of stout (a type of alcohol)
+ - Finds the mean(s) in set(s) of data
+
+Correlation-test:
+ - Measures a correlation coefficient, in order to determine how porportional two datasets are.
+ - Used to see if two columns of data might be related.
+
+ANOVA-test:
+ - Instead of analyzing the mean (T-test), it analyses the variation from the mean.
